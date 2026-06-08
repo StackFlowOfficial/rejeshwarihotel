@@ -1,0 +1,6 @@
+{
+  "name": "Rajeshwari Guest House",
+  "description": "Premium affordable lodging at Pusad Naka, Washim featuring cozy rooms, modern amenities, and warm hospitality.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
